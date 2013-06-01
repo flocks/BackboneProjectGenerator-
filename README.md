@@ -3,9 +3,9 @@ BackboneProjectGenerator-
 
 This is just the boilerplate project I use when I want to build a new project including :
 
-Backbone
-RequireJS
-Parse
+- BackboneJS
+- RequireJS
+- Parse
 
 Installation
 `````javascript
