@@ -5,6 +5,8 @@ This is just the boilerplate project I use when I want to build a new project in
 
 - BackboneJS
 - RequireJS
+- jQuery
+- lodash
 - Parse
 
 Installation
