@@ -4,4 +4,3 @@ define(function() {
 	});
 
 });
-
