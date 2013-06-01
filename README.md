@@ -1,7 +1,12 @@
 BackboneProjectGenerator-
 =========================
 
-This is just the boilerplate project I use when I want to build a new project including :
+
+I realized that everytime I want to start a new project, I was doing the same things again and again to setup a project.
+So I gathered the components in a folder and wrote script to copy all thoses files and the architecture in a new folder.
+
+It is including :
+
 
 - BackboneJS
 - RequireJS
