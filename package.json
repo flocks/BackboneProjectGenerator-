@@ -2,6 +2,7 @@
   "name": "BackboneProjectGenerator",
   "version": "0.1.0",
   "devDependencies": {
-    "async": "~0.2.9"
+    "async": "~0.2.9",
+    "ncp": "~0.4.2"
   }
 }
