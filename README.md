@@ -9,7 +9,7 @@ Parse
 
 Installation
 `````javascript
-git clone 
+git clone https://github.com/flocks/BackboneProjectGenerator-.git
 npm install
 `````
 You can set your path 
