@@ -16,7 +16,7 @@ var github = new GitHubApi({
 
 github.authenticate({
     type: "oauth",
-    token: "53916f4092bc617bcb6a691adbef54a6276dc27f"
+    token: "token"
 });
 
 
@@ -32,10 +32,12 @@ fs.mkdir(pathBase+'/'+project,function(e){
  			if (err) {
    				return console.error(err);
  			}
-			 console.log('done!');
-	     github.repos.create({name : project, private : true}, function(err) {
-		if(err) { console.log(err);}
-	     })
+	       github.repos.create({name : project, private : true}, function(err) {
+		          if(err) { console.log(err);}
+                  else {
+                    // the code to git init and add remote origin and first commit/push
+                  }
+	       });
 		});
 
     } else {
