@@ -27,3 +27,6 @@ Running
 `````javascript
 node app.js projectName
 `````
+Todo :
+
+- add automatic github repo creation
