@@ -14,6 +14,8 @@ It is including :
 - lodash
 - Parse
 
+It automatically creates a private github repo
+
 Installation
 `````javascript
 git clone https://github.com/flocks/BackboneProjectGenerator-.git
