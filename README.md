@@ -29,4 +29,4 @@ node app.js projectName
 `````
 Todo :
 
-- add automatic github repo creation
+- add "git init, git remote add origin, and first commit/push"
